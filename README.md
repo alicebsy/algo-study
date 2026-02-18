@@ -8,11 +8,14 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| FaceWithNull | 3 | ❌ |
-| LYoooJ | 1 | ❌ |
+| FaceWithNull | 8 | ✅ |
+| KangYeSeo04 | 1 | ❌ |
+| LYoooJ | 7 | ✅ |
+| godten-cmd | 5 | ✅ |
 | gun9212 | 1 | ❌ |
 | orca-svg | 1 | ❌ |
-| tomchaccom | 1 | ❌ |
+| sungjaep11 | 4 | ❌ |
+| tomchaccom | 3 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
 
@@ -118,6 +121,10 @@ Action이 정상 실행되었다면, 본인 백준 아이디 폴더 내부에 �
 ```
 /boj/{문제티어}/{문제번호}
 ```
+```
+/pro/문제레벨
+> 프로그래머스 문제는 한국어로 구성되어 있어서 PR에 자세한 내용을 첨부 부탁드립니다!
+```
 
 예시:
 
@@ -160,6 +167,7 @@ Action이 정상 실행되었다면, 본인 백준 아이디 폴더 내부에 �
 
 ### 동기화 완료 
 <img width="900" height="270" alt="image" src="https://github.com/user-attachments/assets/42e0cef1-cfd9-4a50-a40d-94256e4cc787" />
+
 
 
 
