@@ -8,7 +8,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| FaceWithNull | 5 | ✅ |
+| FaceWithNull | 6 | ✅ |
 | KangYeSeo04 | 1 | ❌ |
 | LYoooJ | 5 | ✅ |
 | godten-cmd | 5 | ✅ |
