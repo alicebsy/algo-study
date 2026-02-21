@@ -11,7 +11,7 @@
 | KangYeSeo04 | 4 | ❌ |
 | LYoooJ | 7 | ✅ |
 | Nul0luN | 12 | ✅ |
-| alicebsy | 3 | ❌ |
+| alicebsy | 4 | ❌ |
 | godten-cmd | 7 | ✅ |
 | gun9212 | 4 | ❌ |
 | onff02 | 5 | ✅ |
